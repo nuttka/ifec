@@ -1,8 +1,5 @@
-/lista1/.ipynb_checkpoints
-/lista2/.ipynb_checkpoints
-/lista3/.ipynb_checkpoints
-/lista4/.ipynb_checkpoints
-/lista5/.ipynb_checkpoints
-/lista6/.ipynb_checkpoints
 *.pdf
 *.dat
+
+*/.ipynb_checkpoints/
+*/.ipynb_checkpoints/*.ipynb
