@@ -1,0 +1,1 @@
+Repository of introduction computational statistical physics course at UFMG
